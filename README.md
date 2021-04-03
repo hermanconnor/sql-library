@@ -1,0 +1,1 @@
+In this project, I used JavaScript, Node.js, Express, Pug, SQLite and Sequelize, to build a web application that allows a user to list, add, update, and delete books. Some CSS to style the table was added at the end of the sytlesheet.
