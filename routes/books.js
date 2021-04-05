@@ -1,6 +1,6 @@
-var express = require('express');
-var router = express.Router();
-var { Book } = require('../models');
+const express = require('express');
+const router = express.Router();
+const { Book } = require('../models');
 
 /* HANDLER FUNCTION TO WRAP EACH ROUTE */
 function asyncHandler(cb) {
